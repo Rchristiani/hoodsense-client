@@ -1,0 +1,16 @@
+@import "utilities/normalize";
+@import "utilities/brand";
+@import "utilities/tools";
+@import "utilities/typography";
+
+@lost flexbox flex;
+
+body {
+	min-height: 100vh;
+	// background: #2726EA;
+}
+
+img {
+	max-width: 100%;
+}
+
